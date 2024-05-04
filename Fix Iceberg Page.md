@@ -1,0 +1,5 @@
+- [ ] Make Iceberg header blue
+- [x] Make buttons big ✅ 2024-04-05
+- [x] Customize the buttons to look nicer ✅ 2024-04-05
+- [x] Make iceberg larger - But not as large as current site. ✅ 2024-04-05
+- [ ] Make the modal mobile friendly

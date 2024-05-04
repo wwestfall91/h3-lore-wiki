@@ -1,0 +1,4 @@
+- [ ] Stroking as hard and fast as you can
+- [ ] [Weird sexual noises](https://youtu.be/_3jK0JlZ8s0?t=371)
+- [ ] Everyone's stroked it to Loli before
+- [ ] 
