@@ -1,0 +1,14 @@
+---
+tags:
+  - H3
+  - Cameron
+  - VidIdea
+---
+-  Adult Swim Internship
+- Roommate story - old man
+- Shirtless Eddie LIVE
+- Best photoshops
+- Stavros Ratatouille & Kanye
+- Wating the Fika Fish Dishes
+	- Off the rails #72
+- Great impressions of [[./Alex Jones|Alex Jones]] and [[./John Kennedy|John Kennedy]]
