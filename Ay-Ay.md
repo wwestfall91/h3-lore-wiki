@@ -1,0 +1,27 @@
+---
+Origin: 
+Person: 
+Requested By: 
+On H3Lore?: false
+tags:
+  - Soundbite
+---
+> *"Ay-Ay"*
+
+Timestamp: [00:00:00]
+
+I think it started on [[./H3 Show 4|H3 Show 4]].  You hear Zach drop it multiple times throughout. During Fousey Bullying N3on is one instance, but it happens sooner too. 
+# ADDITIONAL INFO
+
+## Episodes
+``` dataview
+TABLE
+FROM "Episodes"
+WHERE 
+contains(Topics.file.path, this.file.path) 
+OR 
+contains(file.outlinks.file.path, this.file.path)
+OR
+contains(file.inlinks.file.path, this.filep)
+GROUP BY file.link
+```
